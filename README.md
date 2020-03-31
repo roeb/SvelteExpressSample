@@ -1,6 +1,6 @@
 # Svelte & Express Sample
 
-This is my personal exercise project to get to know Svelte and Express.js better.
+This is my personal exercise project to learn Svelte and Express.js.
 
 ## How to start the project
 
